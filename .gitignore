@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+__MACOSX/
+experiments/
+checkpoints/*
+raccoons/
+segmented_data/
+raccoonsDataset.zip
