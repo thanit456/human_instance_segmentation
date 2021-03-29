@@ -1,7 +1,10 @@
 .ipynb_checkpoints/
+.vscode/
 __MACOSX/
 experiments/
 checkpoints/*
 raccoons/
 segmented_data/
 raccoonsDataset.zip
+removed_bg/
+toDataset/
